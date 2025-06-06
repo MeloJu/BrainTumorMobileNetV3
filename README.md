@@ -12,7 +12,7 @@ Train a binary image classification model using MobileNetV3 to distinguish betwe
 ## Dataset
 
 - Source: [Kaggle - Brain Cancer MRI Dataset](https://www.kaggle.com/datasets/orvile/brain-cancer-mri-dataset/data)  
-- Classes: `'no'` (no tumor), `'yes'` (tumor)  
+- Classes: 'brain_glioma', 'brain_menin', 'brain_tumor'  
 - Image format: `.jpg`  
 - Input size: 224x224 pixels
 
